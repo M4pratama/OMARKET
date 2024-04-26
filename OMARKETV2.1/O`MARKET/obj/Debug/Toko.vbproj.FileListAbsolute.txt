@@ -1,0 +1,138 @@
+C:\Users\Administrator\Documents\toko choir coding\Toko\Toko\bin\Debug\Toko.exe.config
+C:\Users\Administrator\Documents\coir\Toko\Toko\bin\Debug\Toko.exe.config
+C:\Users\Administrator\Documents\coir\Toko\Toko\obj\Debug\Toko.Form1.resources
+C:\Users\Administrator\Documents\coir\Toko\Toko\obj\Debug\Toko.jual.resources
+C:\Users\Administrator\Documents\coir\Toko\Toko\obj\Debug\Toko.Resources.resources
+C:\Users\Administrator\Documents\coir\Toko\Toko\obj\Debug\Toko.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\coir\Toko\Toko\bin\Debug\Toko.exe
+C:\Users\Administrator\Documents\coir\Toko\Toko\bin\Debug\Toko.pdb
+C:\Users\Administrator\Documents\coir\Toko\Toko\bin\Debug\Toko.xml
+C:\Users\Administrator\Documents\coir\Toko\Toko\obj\Debug\Toko.exe
+C:\Users\Administrator\Documents\coir\Toko\Toko\obj\Debug\Toko.xml
+C:\Users\Administrator\Documents\coir\Toko\Toko\obj\Debug\Toko.pdb
+C:\Users\Administrator\Documents\coir\Toko\Toko\obj\Debug\Toko.Menu.resources
+C:\Users\Administrator\Documents\Toko(revisi1)\Toko\bin\Debug\Toko.exe.config
+C:\Users\Administrator\Documents\Toko(revisi1)\Toko\obj\Debug\Toko.exe
+C:\Users\Administrator\Documents\Toko(revisi1)\Toko\obj\Debug\Toko.xml
+C:\Users\Administrator\Documents\Toko(revisi1)\Toko\obj\Debug\Toko.pdb
+C:\Users\Administrator\Documents\Toko(revisi1)\Toko\bin\Debug\Toko.exe
+C:\Users\Administrator\Documents\Toko(revisi1)\Toko\bin\Debug\Toko.pdb
+C:\Users\Administrator\Documents\Toko(revisi1)\Toko\bin\Debug\Toko.xml
+C:\Users\Administrator\Documents\Toko(revisi1)\Toko\obj\Debug\Toko.Resources.resources
+C:\Users\Administrator\Documents\Toko(revisi1)\Toko\obj\Debug\Toko.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Toko(revisi1)\Toko\obj\Debug\Toko.Form2.resources
+C:\Users\Administrator\Documents\Toko(revisi1)\Toko\obj\Debug\Toko.Beli_barang.resources
+C:\Users\Administrator\Documents\Toko(revisi1)\Toko\obj\Debug\Toko.FormLogin.resources
+C:\Users\Administrator\Documents\Toko(revisi1)\Toko\obj\Debug\Toko.FormMenuUser.resources
+C:\Users\Administrator\Documents\Toko(revisi1)\Toko\obj\Debug\Toko.formbuatakun.resources
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi4)\Toko\bin\Debug\Toko.exe.config
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi4)\Toko\bin\Debug\Toko.exe
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi4)\Toko\bin\Debug\Toko.pdb
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi4)\Toko\bin\Debug\Toko.xml
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi4)\Toko\obj\Debug\Toko.vbproj.AssemblyReference.cache
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi4)\Toko\obj\Debug\Toko.Form2.resources
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi4)\Toko\obj\Debug\Toko.Beli_barang.resources
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi4)\Toko\obj\Debug\Toko.formbuatakun.resources
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi4)\Toko\obj\Debug\Toko.FormLogin.resources
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi4)\Toko\obj\Debug\Toko.FormMenuUser.resources
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi4)\Toko\obj\Debug\Toko.Resources.resources
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi4)\Toko\obj\Debug\Toko.vbproj.GenerateResource.cache
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi4)\Toko\obj\Debug\Toko.vbproj.CoreCompileInputs.cache
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi4)\Toko\obj\Debug\Toko.exe
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi4)\Toko\obj\Debug\Toko.xml
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi4)\Toko\obj\Debug\Toko.pdb
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi4)\Toko\obj\Debug\Toko.FRMBeli_Barang.resources
+C:\Users\Administrator\Documents\coir\Toko(revisi4)\Toko\bin\Debug\Toko.exe.config
+C:\Users\Administrator\Documents\coir\Toko(revisi4)\Toko\obj\Debug\Toko.exe
+C:\Users\Administrator\Documents\coir\Toko(revisi4)\Toko\obj\Debug\Toko.xml
+C:\Users\Administrator\Documents\coir\Toko(revisi4)\Toko\obj\Debug\Toko.pdb
+C:\Users\Administrator\Documents\coir\Toko(revisi4)\Toko\bin\Debug\Toko.exe
+C:\Users\Administrator\Documents\coir\Toko(revisi4)\Toko\bin\Debug\Toko.pdb
+C:\Users\Administrator\Documents\coir\Toko(revisi4)\Toko\bin\Debug\Toko.xml
+C:\Users\Administrator\Documents\coir\Toko(revisi4)\Toko\obj\Debug\Toko.Form2.resources
+C:\Users\Administrator\Documents\coir\Toko(revisi4)\Toko\obj\Debug\Toko.Beli_barang.resources
+C:\Users\Administrator\Documents\coir\Toko(revisi4)\Toko\obj\Debug\Toko.formbuatakun.resources
+C:\Users\Administrator\Documents\coir\Toko(revisi4)\Toko\obj\Debug\Toko.FormLogin.resources
+C:\Users\Administrator\Documents\coir\Toko(revisi4)\Toko\obj\Debug\Toko.FormMenuUser.resources
+C:\Users\Administrator\Documents\coir\Toko(revisi4)\Toko\obj\Debug\Toko.FRMBeli_Barang.resources
+C:\Users\Administrator\Documents\coir\Toko(revisi4)\Toko\obj\Debug\Toko.Resources.resources
+C:\Users\Administrator\Documents\coir\Toko(revisi4)\Toko\obj\Debug\Toko.vbproj.GenerateResource.Cache
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi5)\Toko\bin\Debug\Toko.exe.config
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi5)\Toko\bin\Debug\Toko.exe
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi5)\Toko\bin\Debug\Toko.pdb
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi5)\Toko\bin\Debug\Toko.xml
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi5)\Toko\obj\Debug\Toko.vbproj.AssemblyReference.cache
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi5)\Toko\obj\Debug\Toko.Beli_barang.resources
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi5)\Toko\obj\Debug\Toko.formbuatakun.resources
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi5)\Toko\obj\Debug\Toko.FormLogin.resources
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi5)\Toko\obj\Debug\Toko.FormMenuUser.resources
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi5)\Toko\obj\Debug\Toko.FRMBeli_Barang.resources
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi5)\Toko\obj\Debug\Toko.Resources.resources
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi5)\Toko\obj\Debug\Toko.vbproj.GenerateResource.cache
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi5)\Toko\obj\Debug\Toko.vbproj.CoreCompileInputs.cache
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi5)\Toko\obj\Debug\Toko.exe
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi5)\Toko\obj\Debug\Toko.xml
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi5)\Toko\obj\Debug\Toko.pdb
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi5)\Toko\obj\Debug\Toko.FormBarang.resources
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi5)\Toko\obj\Debug\Toko.FormMenuAdmin.resources
+C:\Users\Administrator\Documents\Toko(revisi5)\Toko\bin\Debug\Toko.exe.config
+C:\Users\Administrator\Documents\Toko(revisi5)\Toko\obj\Debug\Toko.exe
+C:\Users\Administrator\Documents\Toko(revisi5)\Toko\obj\Debug\Toko.xml
+C:\Users\Administrator\Documents\Toko(revisi5)\Toko\obj\Debug\Toko.pdb
+C:\Users\Administrator\Documents\Toko(revisi5)\Toko\bin\Debug\Toko.exe
+C:\Users\Administrator\Documents\Toko(revisi5)\Toko\bin\Debug\Toko.pdb
+C:\Users\Administrator\Documents\Toko(revisi5)\Toko\bin\Debug\Toko.xml
+C:\Users\Administrator\Documents\Toko(revisi5)\Toko\obj\Debug\Toko.FormBarang.resources
+C:\Users\Administrator\Documents\Toko(revisi5)\Toko\obj\Debug\Toko.Beli_barang.resources
+C:\Users\Administrator\Documents\Toko(revisi5)\Toko\obj\Debug\Toko.formbuatakun.resources
+C:\Users\Administrator\Documents\Toko(revisi5)\Toko\obj\Debug\Toko.FormLogin.resources
+C:\Users\Administrator\Documents\Toko(revisi5)\Toko\obj\Debug\Toko.FormMenuAdmin.resources
+C:\Users\Administrator\Documents\Toko(revisi5)\Toko\obj\Debug\Toko.FormMenuUser.resources
+C:\Users\Administrator\Documents\Toko(revisi5)\Toko\obj\Debug\Toko.FRMBeli_Barang.resources
+C:\Users\Administrator\Documents\Toko(revisi5)\Toko\obj\Debug\Toko.Resources.resources
+C:\Users\Administrator\Documents\Toko(revisi5)\Toko\obj\Debug\Toko.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Toko(revisi5)\Toko\obj\Debug\Toko.list_barang.resources
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi18-4-2024)\Toko\bin\Debug\Toko.exe.config
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi18-4-2024)\Toko\bin\Debug\Toko.exe
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi18-4-2024)\Toko\bin\Debug\Toko.pdb
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi18-4-2024)\Toko\bin\Debug\Toko.xml
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi18-4-2024)\Toko\obj\Debug\Toko.vbproj.AssemblyReference.cache
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi18-4-2024)\Toko\obj\Debug\Toko.FormBarang.resources
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi18-4-2024)\Toko\obj\Debug\Toko.Beli_barang.resources
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi18-4-2024)\Toko\obj\Debug\Toko.formbuatakun.resources
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi18-4-2024)\Toko\obj\Debug\Toko.FormLogin.resources
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi18-4-2024)\Toko\obj\Debug\Toko.FormMenuAdmin.resources
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi18-4-2024)\Toko\obj\Debug\Toko.FormMenuUser.resources
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi18-4-2024)\Toko\obj\Debug\Toko.FRMBeli_Barang.resources
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi18-4-2024)\Toko\obj\Debug\Toko.list_barang.resources
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi18-4-2024)\Toko\obj\Debug\Toko.Resources.resources
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi18-4-2024)\Toko\obj\Debug\Toko.vbproj.GenerateResource.cache
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi18-4-2024)\Toko\obj\Debug\Toko.vbproj.CoreCompileInputs.cache
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi18-4-2024)\Toko\obj\Debug\Toko.exe
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi18-4-2024)\Toko\obj\Debug\Toko.xml
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi18-4-2024)\Toko\obj\Debug\Toko.pdb
+C:\Users\MyBook Hype AMD\Documents\Toko(revisi18-4-2024)\Toko\obj\Debug\Toko.MasterAdmin.resources
+D:\pb\Toko(revisi18-4-2024)\Toko\obj\Debug\Toko.vbproj.AssemblyReference.cache
+D:\pb\Toko(revisi18-4-2024)\Toko\obj\Debug\Toko.FormBarang.resources
+D:\pb\Toko(revisi18-4-2024)\Toko\obj\Debug\Toko.Beli_barang.resources
+D:\pb\Toko(revisi18-4-2024)\Toko\obj\Debug\Toko.formbuatakun.resources
+D:\pb\Toko(revisi18-4-2024)\Toko\obj\Debug\Toko.FormLogin.resources
+D:\pb\Toko(revisi18-4-2024)\Toko\obj\Debug\Toko.FormMenuAdmin.resources
+D:\pb\Toko(revisi18-4-2024)\Toko\obj\Debug\Toko.FormMenuUser.resources
+D:\pb\Toko(revisi18-4-2024)\Toko\obj\Debug\Toko.FRMBeli_Barang.resources
+D:\pb\Toko(revisi18-4-2024)\Toko\obj\Debug\Toko.list_barang.resources
+D:\pb\Toko(revisi18-4-2024)\Toko\obj\Debug\Toko.MasterAdmin.resources
+D:\pb\Toko(revisi18-4-2024)\Toko\obj\Debug\Toko.Resources.resources
+D:\pb\Toko(revisi18-4-2024)\Toko\obj\Debug\Toko.vbproj.GenerateResource.cache
+D:\pb\Toko(revisi18-4-2024)\Toko\obj\Debug\Toko.vbproj.CoreCompileInputs.cache
+D:\pb\Toko(revisi18-4-2024)\Toko\obj\Debug\Toko.exe
+D:\pb\Toko(revisi18-4-2024)\Toko\obj\Debug\Toko.xml
+D:\pb\Toko(revisi18-4-2024)\Toko\obj\Debug\Toko.pdb
+D:\pb\Toko(revisi18-4-2024)\Toko\bin\Debug\Toko.exe.config
+D:\pb\Toko(revisi18-4-2024)\Toko\bin\Debug\Toko.exe
+D:\pb\Toko(revisi18-4-2024)\Toko\bin\Debug\Toko.pdb
+D:\pb\Toko(revisi18-4-2024)\Toko\bin\Debug\Toko.xml
+D:\pb\Toko(revisi18-4-2024)\Toko\bin\Debug\Guna.UI.dll
+D:\pb\Toko(revisi18-4-2024)\Toko\obj\Debug\Toko.vbproj.Up2Date
+D:\pb\Toko(revisi18-4-2024)\Toko\obj\Debug\Toko.dashboard.resources
+D:\pb\Toko(revisi18-4-2024)\Toko\obj\Debug\Toko.informitems.resources
